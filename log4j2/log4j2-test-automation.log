@@ -1,0 +1,60 @@
+[INFO ] 2024-02-25 12:11:15.279 [TestNG-tests-2] Log - Firefox Tests test start method
+[INFO ] 2024-02-25 12:11:15.279 [TestNG-tests-1] Log - Chrome Tests test start method
+[INFO ] 2024-02-25 12:11:19.727 [TestNG-tests-1] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:11:20.233 [TestNG-tests-1] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:11:20.483 [TestNG-tests-1] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:11:20.484 [TestNG-tests-1] Log - textBoxTest test is failed
+[INFO ] 2024-02-25 12:11:21.088 [TestNG-tests-1] Log - Chrome Tests test finish method
+[INFO ] 2024-02-25 12:11:24.671 [TestNG-tests-2] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:11:24.772 [TestNG-tests-2] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:11:24.840 [TestNG-tests-2] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:11:24.841 [TestNG-tests-2] Log - textBoxTest test is failed
+[INFO ] 2024-02-25 12:11:25.317 [TestNG-tests-2] Log - Firefox Tests test finish method
+[INFO ] 2024-02-25 12:14:11.198 [TestNG-tests-2] Log - Firefox Tests test start method
+[INFO ] 2024-02-25 12:14:11.198 [TestNG-tests-1] Log - Chrome Tests test start method
+[INFO ] 2024-02-25 12:14:14.465 [TestNG-tests-1] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:14:14.984 [TestNG-tests-1] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:14:15.226 [TestNG-tests-1] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:14:15.227 [TestNG-tests-1] Log - textBoxTest test is failed
+[INFO ] 2024-02-25 12:14:15.271 [TestNG-tests-2] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:14:15.371 [TestNG-tests-2] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:14:15.438 [TestNG-tests-2] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:14:15.440 [TestNG-tests-2] Log - textBoxTest test is failed
+[INFO ] 2024-02-25 12:14:15.675 [TestNG-tests-1] Log - Chrome Tests test finish method
+[INFO ] 2024-02-25 12:14:16.235 [TestNG-tests-2] Log - Firefox Tests test finish method
+[INFO ] 2024-02-25 12:17:39.640 [TestNG-tests-2] Log - Firefox Tests test start method
+[INFO ] 2024-02-25 12:17:39.640 [TestNG-tests-1] Log - Chrome Tests test start method
+[INFO ] 2024-02-25 12:17:43.113 [TestNG-tests-1] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:17:43.479 [TestNG-tests-1] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:17:43.693 [TestNG-tests-1] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:17:43.694 [TestNG-tests-1] Log - textBoxTest test is failed
+[INFO ] 2024-02-25 12:17:44.232 [TestNG-tests-2] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:17:44.292 [TestNG-tests-1] Log - Chrome Tests test finish method
+[INFO ] 2024-02-25 12:17:44.310 [TestNG-tests-2] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:17:44.368 [TestNG-tests-2] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:17:44.369 [TestNG-tests-2] Log - textBoxTest test is failed
+[INFO ] 2024-02-25 12:17:45.037 [TestNG-tests-2] Log - Firefox Tests test finish method
+[INFO ] 2024-02-25 12:18:25.344 [TestNG-tests-1] Log - Chrome Tests test start method
+[INFO ] 2024-02-25 12:18:25.344 [TestNG-tests-2] Log - Firefox Tests test start method
+[INFO ] 2024-02-25 12:18:28.876 [TestNG-tests-1] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:18:29.499 [TestNG-tests-1] Log - textBoxTest test is passed
+[INFO ] 2024-02-25 12:18:29.602 [TestNG-tests-1] Log - Chrome Tests test finish method
+[INFO ] 2024-02-25 12:18:30.095 [TestNG-tests-2] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:18:30.293 [TestNG-tests-2] Log - textBoxTest test is passed
+[INFO ] 2024-02-25 12:18:30.807 [TestNG-tests-2] Log - Firefox Tests test finish method
+[INFO ] 2024-02-25 12:18:38.419 [TestNG-tests-2] Log - Firefox Tests test start method
+[INFO ] 2024-02-25 12:18:38.419 [TestNG-tests-1] Log - Chrome Tests test start method
+[INFO ] 2024-02-25 12:18:41.745 [TestNG-tests-1] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:18:42.401 [TestNG-tests-1] Log - textBoxTest test is passed
+[INFO ] 2024-02-25 12:18:42.496 [TestNG-tests-1] Log - Chrome Tests test finish method
+[INFO ] 2024-02-25 12:18:42.764 [TestNG-tests-2] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:18:42.942 [TestNG-tests-2] Log - textBoxTest test is passed
+[INFO ] 2024-02-25 12:18:43.480 [TestNG-tests-2] Log - Firefox Tests test finish method
+[INFO ] 2024-02-25 12:24:14.700 [TestNG-tests-1] Log - Chrome Tests test start method
+[INFO ] 2024-02-25 12:24:14.700 [TestNG-tests-2] Log - Firefox Tests test start method
+[INFO ] 2024-02-25 12:24:18.902 [TestNG-tests-1] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:24:19.425 [TestNG-tests-1] Log - textBoxTest test is passed
+[INFO ] 2024-02-25 12:24:19.531 [TestNG-tests-1] Log - Chrome Tests test finish method
+[INFO ] 2024-02-25 12:24:19.950 [TestNG-tests-2] Log - textBoxTest test is starting
+[INFO ] 2024-02-25 12:24:20.141 [TestNG-tests-2] Log - textBoxTest test is passed
+[INFO ] 2024-02-25 12:24:20.782 [TestNG-tests-2] Log - Firefox Tests test finish method

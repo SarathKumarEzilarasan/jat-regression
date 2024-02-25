@@ -1,0 +1,17 @@
+{
+  "tc_1": {
+    "Input_box": "test user",
+    "Country": " India",
+    "Attribute": "value",
+    "Expected_attribute_value": "My learning is superb so far."
+  },
+  "tc_2": {
+    "Input_box": "test user"
+  },
+  "tc_3": {
+    "login": "admin"
+  },
+  "tc_4": {
+    "login": "user"
+  }
+}
